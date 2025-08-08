@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Activity19\bin\Debug\Activity19.exe.config
+C:\Users\HP\source\repos\Activity19\bin\Debug\Activity19.exe
+C:\Users\HP\source\repos\Activity19\bin\Debug\Activity19.pdb
+C:\Users\HP\source\repos\Activity19\obj\Debug\Activity19.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity19\obj\Debug\Activity19.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity19\obj\Debug\Activity19.exe
+C:\Users\HP\source\repos\Activity19\obj\Debug\Activity19.pdb
+C:\Users\HP\source\repos\Activity19\obj\Debug\Activity19.exe.config
